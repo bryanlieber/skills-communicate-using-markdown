@@ -10,3 +10,8 @@ Here is some sample code:
 ``` javascript
 var str = "Wazzzuuuup?";
 ```
+
+And now here's a task list:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my Portfolio
+- [ ] Introduce myself to the World!
